@@ -240,9 +240,9 @@
         status: false,
         name: "basicBot",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
-        cmdLink: "http://git.io/245Ppg",
-        chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
+        scriptLink: "https://raw.githubusercontent.com/N3das/source/master/basicBot.js",
+        cmdLink: "https://raw.githubusercontent.com/basicBot/source/master/commands.md",
+        chatLink: "https://raw.githubusercontent.com/N3das/source/master/lang/en.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
@@ -250,8 +250,8 @@
         settings: {
             botName: "Patriotas",
             language: "english",
-            chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
-            scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
+            chatLink: "hhttps://raw.githubusercontent.com/N3das/source/master/lang/en.json",
+            scriptLink: "https://raw.githubusercontent.com/N3das/source/master/basicBot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 50, // 1-200
             startupVolume: 100, // 0-100
@@ -282,7 +282,7 @@
             thorCooldown: 10,
             skipPosition: 3,
             skipReasons: [
-                 ["zanras", "Netinkamas zanras siai bendruomenei."],
+                ["zanras", "Netinkamas zanras siai bendruomenei."],
                 ["noreason", "Tave praskipino, nes taip norejo."],
                 ["istorija", "Si daina jau grojo."],
                 ["ispejimas", "Uz tycini nesamoniu leidima gauni ispejima."],
